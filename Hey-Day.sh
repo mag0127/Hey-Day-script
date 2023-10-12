@@ -2,4 +2,4 @@
 
 echo "What is your name?"
 read name
-echo " Hey $name!"
+echo "Hey $name!"
